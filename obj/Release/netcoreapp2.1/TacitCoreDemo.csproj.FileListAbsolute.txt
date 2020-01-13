@@ -1,0 +1,13 @@
+C:\Users\Ramya Anand\source\repos\TacitCoreDemo\bin\Release\netcoreapp2.1\TacitCoreDemo.deps.json
+C:\Users\Ramya Anand\source\repos\TacitCoreDemo\bin\Release\netcoreapp2.1\TacitCoreDemo.runtimeconfig.json
+C:\Users\Ramya Anand\source\repos\TacitCoreDemo\bin\Release\netcoreapp2.1\TacitCoreDemo.runtimeconfig.dev.json
+C:\Users\Ramya Anand\source\repos\TacitCoreDemo\bin\Release\netcoreapp2.1\TacitCoreDemo.dll
+C:\Users\Ramya Anand\source\repos\TacitCoreDemo\bin\Release\netcoreapp2.1\TacitCoreDemo.pdb
+C:\Users\Ramya Anand\source\repos\TacitCoreDemo\obj\Release\netcoreapp2.1\TacitCoreDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ramya Anand\source\repos\TacitCoreDemo\obj\Release\netcoreapp2.1\TacitCoreDemo.RazorAssemblyInfo.cache
+C:\Users\Ramya Anand\source\repos\TacitCoreDemo\obj\Release\netcoreapp2.1\TacitCoreDemo.RazorAssemblyInfo.cs
+C:\Users\Ramya Anand\source\repos\TacitCoreDemo\obj\Release\netcoreapp2.1\TacitCoreDemo.AssemblyInfoInputs.cache
+C:\Users\Ramya Anand\source\repos\TacitCoreDemo\obj\Release\netcoreapp2.1\TacitCoreDemo.AssemblyInfo.cs
+C:\Users\Ramya Anand\source\repos\TacitCoreDemo\obj\Release\netcoreapp2.1\TacitCoreDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Ramya Anand\source\repos\TacitCoreDemo\obj\Release\netcoreapp2.1\TacitCoreDemo.dll
+C:\Users\Ramya Anand\source\repos\TacitCoreDemo\obj\Release\netcoreapp2.1\TacitCoreDemo.pdb
